@@ -2,6 +2,7 @@ import React from 'react'
 import "./about.css"
 import Info from './Info'
 import DP from "../../assets/3d-img.png"
+import Resume from "../../assets/resume.pdf"
 
 const About = () => {
   return (
@@ -16,7 +17,7 @@ const About = () => {
                 FullStack (Mern Developer), I create web apps with UI/UX interface, I have 2 years of experience in frontend development and a year 
                 of experience in full stack development.
             </p>
-            <a download="" href="" className="button button--flex">
+            <a download="Resume" href={Resume} className="button button--flex">
                 Download CV
                 <svg width="32px" height="32px" fill="#000000" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" 
 	 viewBox="0 0 480 480" xmlSpace="preserve">

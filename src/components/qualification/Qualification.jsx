@@ -33,7 +33,7 @@ const Qualification = () => {
 
         <div className="box-container left">
          <div className="text-box">
-            <h2>Zaviya Solutions</h2>
+            <h2>Xavia Solutions</h2>
             <small>2022-2023</small>
             <p> React Developer 
             </p>
