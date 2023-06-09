@@ -7,9 +7,9 @@ const Social = () => {
         <Link to="https://www.linkedin.com/in/shaheryar-faraz/" className="home__social-icon" target="_blank"> 
         <i class="uil uil-linkedin"></i>
         </Link>
-        <Link to="" className="home__social-icon" target="_blank"> 
+        {/* <Link to="" className="home__social-icon" target="_blank"> 
         <i class="uil uil-dribbble"></i>
-        </Link>
+        </Link> */}
          <Link to="https://github.com/shery311" className="home__social-icon" target="_blank"> 
             <i class="uil uil-github-alt"></i>
         </Link>
