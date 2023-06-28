@@ -14,8 +14,8 @@ const About = () => {
         <div className="about__data">
             <Info/>
             <p className="about__description">
-                FullStack (Mern Developer), I create web apps with UI/UX interface, I have 2 years of experience in frontend development and a year 
-                of experience in full stack development.
+                
+			I'm a passionate Full Stack MERN Developer with a keen interest in blockchain technology. Proficient in Node.js, Express.js, React.js, and MongoDB, I bring a unique blend of skills to the table. Additionally, I have hands-on experience with Next.js, a powerful framework built on top of React.js that enables server-side rendering and efficient client-side navigation. As I explore the decentralized nature and smart contracts of blockchain, I'm excited to leverage this technology, along with Next.js, to enhance security, transparency, and create exceptional web experiences. Let's revolutionize the digital landscape together!
             </p>
             <a download="Resume" href={Resume} className="button button--flex">
                 Download CV
