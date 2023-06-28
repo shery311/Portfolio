@@ -12,8 +12,8 @@ const Data = () => {
             Mern Stack Developer
         </h3>
         <p className="home__description">
-          Hi, I'm Full Stack (Mern Developer) 
-          I build interactive websites that run across the platforms and devices.
+        I'm a passionate Full Stack MERN Developer with a keen interest in blockchain technology. 
+        I'm excited to leverage these skills to revolutionize the digital landscape
         </p>
 
         <Link to="/contact" className="button">
