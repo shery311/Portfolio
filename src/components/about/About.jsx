@@ -10,13 +10,19 @@ const About = () => {
     <h3 className="section__title">About Me</h3>
     <span className="section__subtitle">My Introduction</span>
       <div className="about__container container grid">
-        <img className="about__img" src={DP}/>
+        <img className="about__img" src={DP} alt='Avatar'/>
         <div className="about__data">
             <Info/>
             <p className="about__description">
-                
-			I'm a passionate Full Stack MERN Developer with a keen interest in blockchain technology. Proficient in Node.js, Express.js, React.js, and MongoDB, I bring a unique blend of skills to the table. Additionally, I have hands-on experience with Next.js, a powerful framework built on top of React.js that enables server-side rendering and efficient client-side navigation. As I explore the decentralized nature and smart contracts of blockchain, I'm excited to leverage this technology, along with Next.js, to enhance security, transparency, and create exceptional web experiences. Let's revolutionize the digital landscape together!
-            </p>
+                I'm a passionate Full Stack MERN Developer with a keen interest in blockchain technology. Proficient in Node.js, Express.js, React.js, and MongoDB, 
+				I bring a unique blend of skills to the table. Additionally, I have hands-on experience with Next.js, a powerful framework built on top of React.js that enables server-side rendering and efficient client-side navigation.
+			</p>
+			<p className="about__description">
+			As I explore the decentralized nature and smart contracts of blockchain, 
+			 I'm excited to leverage this technology, along with Next.js, to enhance security, transparency, 
+			 and create exceptional web experiences. Let's revolutionize the digital landscape together!
+			</p>
+			 
             <a download="Resume" href={Resume} className="button button--flex">
                 Download CV
                 <svg width="32px" height="32px" fill="#000000" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" 

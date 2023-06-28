@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+
 
 const Data = () => {
   return (
@@ -16,12 +16,9 @@ const Data = () => {
         I'm excited to leverage these skills to revolutionize the digital landscape
         </p>
 
-        <Link to="/contact" className="button">
+        <a href="#contact" className="button">
           Say Hello
-        </Link>
-       
-
-        
+        </a> 
     </div>
   )
 }
