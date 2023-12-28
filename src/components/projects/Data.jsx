@@ -5,7 +5,7 @@ export const projectData = [
 
 {
     id:1,
-    image:Random,
+    image:"https://miro.medium.com/v2/resize:fit:828/format:webp/1*wy4a_C7taR0CgmUWULv-bA.png",
     title:"Social App",
     category:"App",
     links:"https://github.com/shery311/Social-App-project"
@@ -13,7 +13,7 @@ export const projectData = [
 
 {
     id:2,
-    image:"https://images.pexels.com/photos/18221948/pexels-photo-18221948/free-photo-of-beautiful-brunette-woman-in-white-off-the-shoulder-dress-standing-on-a-beach.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    image:"https://nordicapis.com/wp-content/uploads/Building-a-RESTful-API-Using-Node.JS-and-MongoDB.png",
     title:"CRUD API",
     category:"RestApi",
     links:"https://github.com/shery311/CRUD-API",
@@ -22,7 +22,7 @@ export const projectData = [
 
 {
     id:3,
-    image:Random,
+    image:"https://nordicapis.com/wp-content/uploads/Building-a-RESTful-API-Using-Node.JS-and-MongoDB.png",
     title:"Api",
     category:"App",
     links:"https://github.com/shery311/Social-app-backend"
